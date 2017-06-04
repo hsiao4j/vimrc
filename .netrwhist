@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/Shijie/.oh-my-zsh/themes'
+let g:netrw_dirhist_2='/Users/Shijie/workspace/vim-colors-solarized'
+let g:netrw_dirhist_3='/Users/Shijie/.powerline_fonts'
